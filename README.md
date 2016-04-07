@@ -10,6 +10,11 @@
 
  - [Use the index, Luke](http://use-the-index-luke.com/)
 
+## Perl
+
+ - [Wow, Perl 6!](http://tpm2016.zoffix.com) by [Pete 'Zoffix Znet' Evstratov](https://metacpan.org/author/ZOFFIX)
+ - [Learn Perl 6 in Y minutes](https://learnxinyminutes.com/docs/perl6)
+
 ## Python
 
  - [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
