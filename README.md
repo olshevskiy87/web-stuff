@@ -18,6 +18,7 @@
 ## Python
 
  - [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
+ - Learn [Python](https://learnxinyminutes.com/docs/python) and [Python3](https://learnxinyminutes.com/docs/python3) in Y minutes
 
 ## JSON, javascript and related
 
