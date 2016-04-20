@@ -6,6 +6,13 @@
  - [Погружаемся в Docker: Dockerfile и коммуникация между контейнерами](https://habrahabr.ru/company/infobox/blog/240623/)
  - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 
+## Vim / Neovim
+
+ - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
+ - [The great cheatsheet for Vimscript](http://ricostacruz.com/cheatsheets/vimscript.html)
+ - [Neovim](https://neovim.io)
+ - [Neovim wiki](https://github.com/neovim/neovim/wiki)
+
 ## DBMS
 
  - [Use the index, Luke](http://use-the-index-luke.com/)
