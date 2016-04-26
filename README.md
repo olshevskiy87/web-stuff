@@ -25,6 +25,7 @@
 ## Python
 
  - [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
+ - [Telegram Bot wrapper](https://github.com/python-telegram-bot/python-telegram-bot.git)
  - Learn [Python](https://learnxinyminutes.com/docs/python) and [Python3](https://learnxinyminutes.com/docs/python3) in Y minutes
 
 ## JSON, javascript and related
