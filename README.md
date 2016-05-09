@@ -50,6 +50,7 @@
  - [Database Soup](http://www.databasesoup.com/search/label/postgresql) - Josh Berkus' blog
  - [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.ru/search/label/PostgreSQL)
  - [Записки программиста](http://eax.me)
+ - [Arabesque](https://sanctum.geek.nz/arabesque) - Tom Ryder's blog
 
 ## miscellaneous
 
