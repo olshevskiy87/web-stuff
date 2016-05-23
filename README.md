@@ -13,6 +13,9 @@
  - [Neovim](https://neovim.io)
  - [Neovim wiki](https://github.com/neovim/neovim/wiki)
 
+## Git
+ - [git-extras](https://github.com/tj/git-extras)
+
 ## DBMS
 
  - [Use the index, Luke](http://use-the-index-luke.com/)
