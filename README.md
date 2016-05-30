@@ -12,6 +12,7 @@
  - [The great cheatsheet for Vimscript](http://ricostacruz.com/cheatsheets/vimscript.html)
  - [Neovim](https://neovim.io)
  - [Neovim wiki](https://github.com/neovim/neovim/wiki)
+ - [reddit /r/vim](https://www.reddit.com/search?q=vim&sort=new)
 
 ## Git
  - [git-extras](https://github.com/tj/git-extras)
