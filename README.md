@@ -39,6 +39,13 @@
  - [Selenium WebDriverJs guide](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs)
  - [Selenium WebDriver JavaScript test with Mocha and NodeJS](https://gist.github.com/patoi/5330701)
 
+## npm
+
+ - [https://www.npmjs.com/package/forever](A simple CLI tool for ensuring that a given script runs continuously)
+ - [https://www.npmjs.com/package/jpm](Jetpack Mechanic utilities for creating, testing, running and packaging Mozilla Jetpack Addons)
+ - [https://www.npmjs.com/package/mocha](simple, flexible, fun test framework)
+ - [https://www.npmjs.com/package/mongo-hacker](MongoDB Shell Enhancements for Hackers)
+
 ## blogs
 
  - [select * from depesz;](http://www.depesz.com)
