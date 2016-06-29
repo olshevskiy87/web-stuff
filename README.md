@@ -8,6 +8,7 @@
 
 ## Vim / Neovim
 
+ - [Vim Casts with Drew Neil](http://vimcasts.org/episodes)
  - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
  - [The great cheatsheet for Vimscript](http://ricostacruz.com/cheatsheets/vimscript.html)
  - [Neovim](https://neovim.io)
