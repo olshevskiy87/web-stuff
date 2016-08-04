@@ -33,6 +33,13 @@
  - [Telegram Bot wrapper](https://github.com/python-telegram-bot/python-telegram-bot.git)
  - Learn [Python](https://learnxinyminutes.com/docs/python) and [Python3](https://learnxinyminutes.com/docs/python3) in Y minutes
 
+## Go
+
+ - [play golang](https://play.golang.org)
+ - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang)
+ - [gogs (Go Git Service)](https://github.com/gogits/gogs)
+ - [awesome-go](https://github.com/avelino/awesome-go)
+
 ## JSON, javascript and related
 
  - [Understanding JSON Schema](http://spacetelescope.github.io/understanding-json-schema/index.html)
@@ -48,7 +55,6 @@
  - [https://www.npmjs.com/package/mongo-hacker](MongoDB Shell Enhancements for Hackers)
 
 ## blogs
-
  - [select * from depesz;](http://www.depesz.com)
  - [Pat Shaughnessy's blog](http://patshaughnessy.net)
  - [Bruce Momjian's Postgres blog](http://momjian.us/main/blogs/pgblog.html)
