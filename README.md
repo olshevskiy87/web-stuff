@@ -14,6 +14,7 @@
  - [Neovim](https://neovim.io)
  - [Neovim wiki](https://github.com/neovim/neovim/wiki)
  - [reddit /r/vim](https://www.reddit.com/search?q=vim&sort=new)
+ - [VimGolf](http://www.vimgolf.com)
 
 ## Git
  - [git-extras](https://github.com/tj/git-extras)
