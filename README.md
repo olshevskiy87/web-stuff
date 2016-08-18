@@ -33,6 +33,7 @@
  - [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
  - [Telegram Bot wrapper](https://github.com/python-telegram-bot/python-telegram-bot.git)
  - Learn [Python](https://learnxinyminutes.com/docs/python) and [Python3](https://learnxinyminutes.com/docs/python3) in Y minutes
+ - [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI
 
 ## Go
 
