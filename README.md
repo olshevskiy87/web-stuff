@@ -18,6 +18,7 @@
 
 ## Git
  - [git-extras](https://github.com/tj/git-extras)
+ - [Git tutorials from Atlassian](https://ru.atlassian.com/git/tutorials)
 
 ## DBMS
 
