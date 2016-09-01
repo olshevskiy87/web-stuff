@@ -8,7 +8,7 @@
 
 ## Vim / Neovim
 
- - [Vim Casts with Drew Neil](http://vimcasts.org/episodes)
+ - [Vim Casts with Drew Neil](http://vimcasts.org/episodes/)
  - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
  - [The great cheatsheet for Vimscript](http://ricostacruz.com/cheatsheets/vimscript.html)
  - [Neovim](https://neovim.io)
@@ -18,7 +18,7 @@
 
 ## Git
  - [git-extras](https://github.com/tj/git-extras)
- - [Git tutorials from Atlassian](https://ru.atlassian.com/git/tutorials)
+ - [Git tutorials from Atlassian](https://ru.atlassian.com/git/tutorials/)
 
 ## DBMS
 
@@ -35,26 +35,26 @@
 ## Perl
 
  - [Wow, Perl 6!](http://tpm2016.zoffix.com) by [Pete 'Zoffix Znet' Evstratov](https://metacpan.org/author/ZOFFIX)
- - [Learn Perl 6 in Y minutes](https://learnxinyminutes.com/docs/perl6)
+ - [Learn Perl 6 in Y minutes](https://learnxinyminutes.com/docs/perl6/)
 
 ## Python
 
  - [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
- - [Telegram Bot wrapper](https://github.com/python-telegram-bot/python-telegram-bot.git)
- - Learn [Python](https://learnxinyminutes.com/docs/python) and [Python3](https://learnxinyminutes.com/docs/python3) in Y minutes
+ - [Telegram Bot wrapper](https://github.com/python-telegram-bot/python-telegram-bot)
+ - Learn [Python](https://learnxinyminutes.com/docs/python/) and [Python3](https://learnxinyminutes.com/docs/python3/) in Y minutes
  - [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI
  - [
 
 ## Go
 
  - [play golang](https://play.golang.org)
- - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang)
+ - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
  - [gogs (Go Git Service)](https://github.com/gogits/gogs)
  - [awesome-go](https://github.com/avelino/awesome-go)
 
 ## JSON, javascript and related
 
- - [Understanding JSON Schema](http://spacetelescope.github.io/understanding-json-schema/index.html)
+ - [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/index.html)
  - [Chai Assertion Library](http://chaijs.com/)
  - [Selenium WebDriverJs guide](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs)
  - [Selenium WebDriver JavaScript test with Mocha and NodeJS](https://gist.github.com/patoi/5330701)
@@ -67,12 +67,12 @@
  - [https://www.npmjs.com/package/mongo-hacker](MongoDB Shell Enhancements for Hackers)
 
 ## blogs
- - [select * from depesz;](http://www.depesz.com)
+ - [select * from depesz;](https://www.depesz.com)
  - [Pat Shaughnessy's blog](http://patshaughnessy.net)
  - [Bruce Momjian's Postgres blog](http://momjian.us/main/blogs/pgblog.html)
  - [Robert Haas' blog](http://rhaas.blogspot.ru/search/label/postgresql)
  - [Michael Paquier's blog](http://michael.otacoo.com)
- - [Magnus Hagander's blog](http://blog.hagander.net/tags/postgresql)
+ - [Magnus Hagander's blog](https://blog.hagander.net/tags/postgresql/)
  - [Tomas Vondra's blog](http://blog.pgaddict.com)
  - [Dimitri Fontaine's blog](http://tapoueh.org/tags/postgresql)
  - [2ndQuadrant's blog](http://blog.2ndquadrant.com)
@@ -80,10 +80,10 @@
  - [Database Soup](http://www.databasesoup.com/search/label/postgresql) - Josh Berkus' blog
  - [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.ru/search/label/PostgreSQL)
  - [Записки программиста](http://eax.me)
- - [Arabesque](https://sanctum.geek.nz/arabesque) - Tom Ryder's blog
+ - [Arabesque](https://sanctum.geek.nz/arabesque/) - Tom Ryder's blog
  - [Ruslan Spivak's blog](https://ruslanspivak.com)
 
 ## miscellaneous
 
- - [Rico Sta. Cruz's cheatsheets collection](http://ricostacruz.com/cheatsheets)
- - [Mozilla Development Network](https://developer.mozilla.org)
+ - [Rico Sta. Cruz's cheatsheets collection](http://ricostacruz.com/cheatsheets/)
+ - [Mozilla Development Network](https://developer.mozilla.org/en-US/)
