@@ -24,6 +24,14 @@
 
  - [Use the index, Luke](http://use-the-index-luke.com/)
 
+## PostgreSQL
+
+ - [official site](https://www.postgresql.org)
+ - [wiki](https://wiki.postgresql.org/wiki/Main_Page)
+ - [BuildFarm](http://www.pgbuildfarm.org)
+ - [Postgres Professional](https://postgrespro.ru)
+ - [pgAdmin](https://www.pgadmin.org)
+
 ## Perl
 
  - [Wow, Perl 6!](http://tpm2016.zoffix.com) by [Pete 'Zoffix Znet' Evstratov](https://metacpan.org/author/ZOFFIX)
