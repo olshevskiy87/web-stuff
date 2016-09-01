@@ -24,13 +24,13 @@
 
  - [Use the index, Luke](http://use-the-index-luke.com/)
 
-## PostgreSQL
+ ### PostgreSQL
 
- - [official site](https://www.postgresql.org)
- - [wiki](https://wiki.postgresql.org/wiki/Main_Page)
- - [BuildFarm](http://www.pgbuildfarm.org)
- - [Postgres Professional](https://postgrespro.ru)
- - [pgAdmin](https://www.pgadmin.org)
+  - [official site](https://www.postgresql.org)
+  - [wiki](https://wiki.postgresql.org/wiki/Main_Page)
+  - [BuildFarm](http://www.pgbuildfarm.org)
+  - [Postgres Professional](https://postgrespro.ru)
+  - [pgAdmin](https://www.pgadmin.org)
 
 ## Perl
 
@@ -43,6 +43,7 @@
  - [Telegram Bot wrapper](https://github.com/python-telegram-bot/python-telegram-bot.git)
  - Learn [Python](https://learnxinyminutes.com/docs/python) and [Python3](https://learnxinyminutes.com/docs/python3) in Y minutes
  - [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI
+ - [
 
 ## Go
 
