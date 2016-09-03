@@ -70,7 +70,7 @@
  - [Pat Shaughnessy's blog](http://patshaughnessy.net)
  - [Bruce Momjian's Postgres blog](http://momjian.us/main/blogs/pgblog.html)
  - [Robert Haas' blog](http://rhaas.blogspot.ru/search/label/postgresql)
- - [Michael Paquier's blog](http://michael.otacoo.com)
+ - [Michael Paquier's blog](http://paquier.xyz/)
  - [Magnus Hagander's blog](https://blog.hagander.net/tags/postgresql/)
  - [Tomas Vondra's blog](http://blog.pgaddict.com)
  - [Dimitri Fontaine's blog](http://tapoueh.org/tags/postgresql)
