@@ -81,6 +81,7 @@
  - [Записки программиста](http://eax.me)
  - [Arabesque](https://sanctum.geek.nz/arabesque/) - Tom Ryder's blog
  - [Ruslan Spivak's blog](https://ruslanspivak.com)
+ - [Peter Eisentraut's blog](http://peter.eisentraut.org/)
 
 ## miscellaneous
 
