@@ -1,4 +1,4 @@
-# web stuff [![Build status][travis_badge]](https://travis-ci.org/olshevskiy87/web-stuff)
+# web stuff
 
 ## \*nix
 
@@ -88,5 +88,3 @@
 
  - [Rico Sta. Cruz's cheatsheets collection](http://ricostacruz.com/cheatsheets/)
  - [Mozilla Development Network](https://developer.mozilla.org/en-US/)
-
-[travis_badge]: https://travis-ci.org/olshevskiy87/web-stuff.svg?branch=master
