@@ -19,6 +19,7 @@
 ## Git
  - [git-extras](https://github.com/tj/git-extras)
  - [Git tutorials from Atlassian](https://ru.atlassian.com/git/tutorials/)
+ - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
 ## DBMS
 
