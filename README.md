@@ -24,7 +24,7 @@
 
  - [Use the index, Luke](http://use-the-index-luke.com/)
 
- ### PostgreSQL
+### PostgreSQL
 
   - [official site](https://www.postgresql.org)
   - [wiki](https://wiki.postgresql.org/wiki/Main_Page)
