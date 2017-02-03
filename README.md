@@ -29,7 +29,7 @@
 
   - [official site](https://www.postgresql.org)
   - [wiki](https://wiki.postgresql.org/wiki/Main_Page)
-  - [BuildFarm](http://www.pgbuildfarm.org)
+  - [BuildFarm](https://buildfarm.postgresql.org)
   - [Postgres Professional](https://postgrespro.ru)
   - [pgAdmin](https://www.pgadmin.org)
 
@@ -78,7 +78,6 @@
  - [Michael Paquier's blog](http://paquier.xyz/)
  - [Magnus Hagander's blog](https://blog.hagander.net/tags/postgresql/)
  - [Tomas Vondra's blog](http://blog.pgaddict.com)
- - [Dimitri Fontaine's blog](http://tapoueh.org/tags/postgresql)
  - [2ndQuadrant's blog](http://blog.2ndquadrant.com)
  - [Pavel Stehule's blog](http://okbob.blogspot.ru)
  - [Database Soup](http://www.databasesoup.com/search/label/postgresql) - Josh Berkus' blog
