@@ -66,6 +66,10 @@
  - [https://www.npmjs.com/package/mocha](simple, flexible, fun test framework)
  - [https://www.npmjs.com/package/mongo-hacker](MongoDB Shell Enhancements for Hackers)
 
+## queueing systems
+ - [ZeroMQ](http://zeromq.org) (0MQ, ZMQ) - a high-performance asynchronous messaging library
+ - [RabbitMQ](https://www.rabbitmq.com) - message broker software that implements the [AMQP](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
+
 ## blogs
  - [select * from depesz;](https://www.depesz.com)
  - [Pat Shaughnessy's blog](http://patshaughnessy.net)
