@@ -13,7 +13,6 @@
  - [The great cheatsheet for Vimscript](http://ricostacruz.com/cheatsheets/vimscript.html)
  - [Neovim](https://neovim.io)
  - [Neovim wiki](https://github.com/neovim/neovim/wiki)
- - [reddit /r/vim](https://www.reddit.com/search?q=vim&sort=new)
  - [VimGolf](http://www.vimgolf.com)
 
 ## Git
@@ -44,7 +43,7 @@
  - [Telegram Bot wrapper](https://github.com/python-telegram-bot/python-telegram-bot)
  - Learn [Python](https://learnxinyminutes.com/docs/python/) and [Python3](https://learnxinyminutes.com/docs/python3/) in Y minutes
  - [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI
- - [authomatic](http://peterhudec.com/authomatic) - Simple yet powerful authorization / authentication client library for Python web applications
+ - [authomatic](http://peterhudec.com/authomatic/) - Simple yet powerful authorization / authentication client library for Python web applications
 
 ## Go
 
@@ -79,7 +78,7 @@
  - [Michael Paquier's blog](http://paquier.xyz/)
  - [Magnus Hagander's blog](https://blog.hagander.net/tags/postgresql/)
  - [Tomas Vondra's blog](http://blog.pgaddict.com)
- - [2ndQuadrant's blog](http://blog.2ndquadrant.com)
+ - [2ndQuadrant's blog](https://blog.2ndquadrant.com)
  - [Pavel Stehule's blog](http://okbob.blogspot.ru)
  - [Database Soup](http://www.databasesoup.com/search/label/postgresql) - Josh Berkus' blog
  - [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.ru/search/label/PostgreSQL)
