@@ -42,7 +42,7 @@
  - [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
  - [Telegram Bot wrapper](https://github.com/python-telegram-bot/python-telegram-bot)
  - Learn [Python](https://learnxinyminutes.com/docs/python/) and [Python3](https://learnxinyminutes.com/docs/python3/) in Y minutes
- - [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI
+ - [httpie](https://github.com/jakubroztocil/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI
  - [authomatic](http://peterhudec.com/authomatic/) - Simple yet powerful authorization / authentication client library for Python web applications
 
 ## Go
@@ -92,4 +92,4 @@
  - [Rico Sta. Cruz's cheatsheets collection](http://ricostacruz.com/cheatsheets/)
  - [Mozilla Development Network](https://developer.mozilla.org/en-US/)
 
-[travis_badge]: https://travis-ci.org/olshevskiy87/web-stuff.svg?branch=master
+[travis_badge]: https://api.travis-ci.org/olshevskiy87/web-stuff.svg?branch=master
