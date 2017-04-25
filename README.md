@@ -53,6 +53,7 @@
  - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
  - [gogs (Go Git Service)](https://github.com/gogits/gogs)
  - [awesome-go](https://github.com/avelino/awesome-go)
+ - [slit](https://github.com/tigrawap/slit) - a modern $PAGER for noisy logs
 
 ## JSON, javascript and related
 
