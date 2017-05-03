@@ -15,6 +15,23 @@
  - [Neovim wiki](https://github.com/neovim/neovim/wiki)
  - [VimGolf](http://www.vimgolf.com)
 
+### vim plugins
+ - [vim-surronud](https://github.com/tpope/vim-surround)
+ - [vim-fugitive](https://github.com/tpope/vim-fugitive)
+ - [vim-unimpaired](https://github.com/tpope/vim-unimpaired)
+ - [vim-repeat](https://github.com/tpope/vim-repeat)
+ - [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+ - [seoul256.vim](https://github.com/junegunn/seoul256.vim)
+ - [vim-easy-align](https://github.com/junegunn/vim-easy-align)
+ - [gv.vim](https://github.com/junegunn/gv.vim)
+ - [nerdcommenter](https://github.com/scrooloose/nerdcommenter)
+ - [committia](https://github.com/rhysd/committia.vim)
+ - [python-mode](https://github.com/klen/python-mode)
+ - [jshint2.vim](https://github.com/Shutnik/jshint2.vim)
+ - [vim-stay](https://github.com/kopischke/vim-stay)
+ - [vim-togglenumber](https://github.com/tkhoa2711/vim-togglenumber)
+ - [vim-go](https://github.com/fatih/vim-go)
+
 ## Git
  - [git-extras](https://github.com/tj/git-extras)
  - [Git tutorials from Atlassian](https://ru.atlassian.com/git/tutorials/)
