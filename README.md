@@ -26,7 +26,7 @@
  - [gv.vim](https://github.com/junegunn/gv.vim)
  - [nerdcommenter](https://github.com/scrooloose/nerdcommenter)
  - [committia](https://github.com/rhysd/committia.vim)
- - [python-mode](https://github.com/klen/python-mode)
+ - [python-mode](https://github.com/python-mode/python-mode)
  - [jshint2.vim](https://github.com/Shutnik/jshint2.vim)
  - [vim-stay](https://github.com/kopischke/vim-stay)
  - [vim-togglenumber](https://github.com/tkhoa2711/vim-togglenumber)
@@ -34,7 +34,7 @@
 
 ## Git
  - [git-extras](https://github.com/tj/git-extras)
- - [Git tutorials from Atlassian](https://ru.atlassian.com/git/tutorials/)
+ - [Git tutorials from Atlassian](https://ru.atlassian.com/git/tutorials)
  - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
 ## DBMS
@@ -59,7 +59,7 @@
  - [Telegram Bot wrapper](https://github.com/python-telegram-bot/python-telegram-bot)
  - Learn [Python](https://learnxinyminutes.com/docs/python/) and [Python3](https://learnxinyminutes.com/docs/python3/) in Y minutes
  - [httpie](https://github.com/jakubroztocil/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI
- - [authomatic](http://peterhudec.com/authomatic/) - Simple yet powerful authorization / authentication client library for Python web applications
+ - [authomatic](https://github.com/authomatic/authomatic) - Simple yet powerful authorization / authentication client library for Python web applications
  - [ipython](https://ipython.org) - A command shell for interactive computing
  - [ptpython](https://github.com/jonathanslenders/ptpython) - A better Python REPL
  - [wsstat](https://github.com/Fitblip/wsstat) - Websocket stress testing made beautiful
