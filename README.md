@@ -60,6 +60,7 @@
  - Learn [Python](https://learnxinyminutes.com/docs/python/) and [Python3](https://learnxinyminutes.com/docs/python3/) in Y minutes
  - [httpie](https://github.com/jakubroztocil/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI
  - [authomatic](http://peterhudec.com/authomatic/) - Simple yet powerful authorization / authentication client library for Python web applications
+ - [ipython](https://ipython.org) - A command shell for interactive computing
  - [ptpython](https://github.com/jonathanslenders/ptpython) - A better Python REPL
  - [wsstat](https://github.com/Fitblip/wsstat) - Websocket stress testing made beautiful
 
