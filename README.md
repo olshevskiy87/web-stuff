@@ -15,6 +15,7 @@
  - [VimGolf](http://www.vimgolf.com)
 
 ### vim plugins
+
  - [vim-surronud](https://github.com/tpope/vim-surround)
  - [vim-fugitive](https://github.com/tpope/vim-fugitive)
  - [vim-unimpaired](https://github.com/tpope/vim-unimpaired)
@@ -32,6 +33,7 @@
  - [vim-go](https://github.com/fatih/vim-go)
 
 ## Git
+
  - [git-extras](https://github.com/tj/git-extras)
  - [Git tutorials from Atlassian](https://ru.atlassian.com/git/tutorials)
  - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
@@ -87,10 +89,12 @@
  - [MongoDB Shell Enhancements for Hackers](https://www.npmjs.com/package/mongo-hacker)
 
 ## queueing systems
+
  - [ZeroMQ](http://zeromq.org) (0MQ, ZMQ) - a high-performance asynchronous messaging library
  - [RabbitMQ](https://www.rabbitmq.com) - message broker software that implements the [AMQP](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 
 ## blogs
+
  - [select * from depesz;](https://www.depesz.com)
  - [Pat Shaughnessy's blog](http://patshaughnessy.net)
  - [Bruce Momjian's Postgres blog](http://momjian.us/main/blogs/pgblog.html)
