@@ -10,7 +10,7 @@
 
  - [Vim Casts with Drew Neil](http://vimcasts.org/episodes/)
  - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
- - [The great cheatsheet for Vimscript](http://ricostacruz.com/cheatsheets/vimscript.html)
+ - [The great cheatsheet for Vimscript](https://devhints.io/vimscript)
  - [Neovim](https://github.com/neovim/neovim)
  - [VimGolf](http://www.vimgolf.com)
 
@@ -113,7 +113,7 @@
 
 ## miscellaneous
 
- - [Rico Sta. Cruz's cheatsheets collection](http://ricostacruz.com/cheatsheets/)
+ - [Rico Sta. Cruz's cheatsheets collection](https://devhints.io)
  - [Mozilla Development Network](https://developer.mozilla.org/en-US/)
 
 [travis_badge]: https://api.travis-ci.org/olshevskiy87/web-stuff.svg?branch=master
