@@ -115,5 +115,6 @@
 
  - [Rico Sta. Cruz's cheatsheets collection](https://devhints.io)
  - [Mozilla Development Network](https://developer.mozilla.org/en-US/)
+ - [ripgrep](https://github.com/BurntSushi/ripgrep) - a search tool that recursively searches your current directory for a regex pattern while respecting your gitignore rules
 
 [travis_badge]: https://api.travis-ci.org/olshevskiy87/web-stuff.svg?branch=master
