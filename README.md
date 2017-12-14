@@ -106,7 +106,7 @@
  - [Pavel Stehule's blog](http://okbob.blogspot.ru)
  - [Database Soup](http://www.databasesoup.com/search/label/postgresql) - Josh Berkus' blog
  - [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.ru/search/label/PostgreSQL)
- - [Записки программиста](http://eax.me)
+ - [Записки программиста](https://eax.me)
  - [Arabesque](https://sanctum.geek.nz/arabesque/) - Tom Ryder's blog
  - [Ruslan Spivak's blog](https://ruslanspivak.com)
  - [Peter Eisentraut's blog](http://peter.eisentraut.org/)
