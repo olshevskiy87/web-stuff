@@ -40,7 +40,7 @@
 
 ## DBMS
 
- - [Use the index, Luke](http://use-the-index-luke.com/)
+ - [Use the index, Luke](https://use-the-index-luke.com/)
 
 ### PostgreSQL
 
