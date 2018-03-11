@@ -44,11 +44,11 @@
 
 ### PostgreSQL
 
-  - [official site](https://www.postgresql.org)
   - [wiki](https://wiki.postgresql.org/wiki/Main_Page)
   - [BuildFarm](https://buildfarm.postgresql.org)
   - [Postgres Professional](https://postgrespro.ru)
   - [pgAdmin](https://www.pgadmin.org)
+  - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 
 ## Perl
 
