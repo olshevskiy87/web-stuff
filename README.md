@@ -74,6 +74,7 @@
  - [slit](https://github.com/tigrawap/slit) - a modern $PAGER for noisy logs
  - [justforfunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) - programming in Go and having fun with it ([Francesc Campoy](https://twitter.com/francesc))
  - [Go 101](https://go101.org/article/101.html) - a book focusing on Go syntax and semantics
+ - [Checklist for Go projects](https://blog.depado.eu/post/checklist-for-go-projects)
 
 ## JSON, javascript and related
 
