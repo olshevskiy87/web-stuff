@@ -3,7 +3,7 @@
 ## \*nix
 
  - [A collection of Unix/Linux/BSD commands and tasks](http://cb.vu/unixtoolbox.xhtml)
- - [Погружаемся в Docker: Dockerfile и коммуникация между контейнерами](https://habrahabr.ru/company/infobox/blog/240623/)
+ - [Погружаемся в Docker: Dockerfile и коммуникация между контейнерами](https://habr.com/company/infobox/blog/240623/)
  - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 
 ## Vim / Neovim
