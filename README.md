@@ -6,6 +6,7 @@
  - [Погружаемся в Docker: Dockerfile и коммуникация между контейнерами](https://habr.com/company/infobox/blog/240623/)
  - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
  - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+ - [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust
 
 ## Vim / Neovim
 
