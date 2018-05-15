@@ -5,6 +5,7 @@
  - [A collection of Unix/Linux/BSD commands and tasks](http://cb.vu/unixtoolbox.xhtml)
  - [Погружаемся в Docker: Dockerfile и коммуникация между контейнерами](https://habr.com/company/infobox/blog/240623/)
  - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
+ - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 
 ## Vim / Neovim
 
