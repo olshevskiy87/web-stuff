@@ -7,6 +7,7 @@
  - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
  - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
  - [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust
+ - [ripgrep](https://github.com/BurntSushi/ripgrep) - a search tool that recursively searches your current directory for a regex pattern while respecting your gitignore rules
 
 ## Vim / Neovim
 
@@ -121,6 +122,5 @@
 
  - [Rico Sta. Cruz's cheatsheets collection](https://devhints.io)
  - [Mozilla Development Network](https://developer.mozilla.org/en-US/)
- - [ripgrep](https://github.com/BurntSushi/ripgrep) - a search tool that recursively searches your current directory for a regex pattern while respecting your gitignore rules
 
 [travis_badge]: https://api.travis-ci.org/olshevskiy87/web-stuff.svg?branch=master
