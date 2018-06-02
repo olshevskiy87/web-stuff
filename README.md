@@ -79,6 +79,7 @@
  - [Go 101](https://go101.org/article/101.html) - a book focusing on Go syntax and semantics
  - [Checklist for Go projects](https://blog.depado.eu/post/checklist-for-go-projects)
  - [A curated selection of blog posts on Go](https://github.com/enocom/gopher-reading-list)
+ - [revive](https://github.com/mgechev/revive) - Fast, extensible, configurable, and beautiful linter for Go
 
 ## JSON, javascript and related
 
