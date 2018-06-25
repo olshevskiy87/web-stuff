@@ -31,7 +31,7 @@
  - [committia](https://github.com/rhysd/committia.vim)
  - [python-mode](https://github.com/python-mode/python-mode)
  - [jshint2.vim](https://github.com/Shutnik/jshint2.vim)
- - [vim-stay](https://github.com/kopischke/vim-stay)
+ - [vim-stay](https://github.com/zhimsel/vim-stay)
  - [vim-togglenumber](https://github.com/tkhoa2711/vim-togglenumber)
  - [vim-go](https://github.com/fatih/vim-go)
 
@@ -72,7 +72,7 @@
 
  - [play golang](https://play.golang.org)
  - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
- - [gogs (Go Git Service)](https://github.com/gogits/gogs)
+ - [gogs (Go Git Service)](https://github.com/gogs/gogs)
  - [awesome-go](https://github.com/avelino/awesome-go)
  - [slit](https://github.com/tigrawap/slit) - a modern $PAGER for noisy logs
  - [justforfunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) - programming in Go and having fun with it ([Francesc Campoy](https://twitter.com/francesc))
@@ -106,14 +106,14 @@
  - [select * from depesz;](https://www.depesz.com)
  - [Pat Shaughnessy's blog](http://patshaughnessy.net)
  - [Bruce Momjian's Postgres blog](http://momjian.us/main/blogs/pgblog.html)
- - [Robert Haas' blog](http://rhaas.blogspot.ru/search/label/postgresql)
- - [Michael Paquier's blog](http://paquier.xyz/)
+ - [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql)
+ - [Michael Paquier's blog](https://paquier.xyz/)
  - [Magnus Hagander's blog](https://blog.hagander.net/tags/postgresql/)
  - [Tomas Vondra's blog](http://blog.pgaddict.com)
  - [2ndQuadrant's blog](https://blog.2ndquadrant.com)
- - [Pavel Stehule's blog](http://okbob.blogspot.ru)
+ - [Pavel Stehule's blog](http://okbob.blogspot.com)
  - [Database Soup](http://www.databasesoup.com/search/label/postgresql) - Josh Berkus' blog
- - [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.ru/search/label/PostgreSQL)
+ - [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.com/search/label/PostgreSQL)
  - [Записки программиста](https://eax.me)
  - [Arabesque](https://sanctum.geek.nz/arabesque/) - Tom Ryder's blog
  - [Ruslan Spivak's blog](https://ruslanspivak.com)
