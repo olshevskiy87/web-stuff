@@ -84,7 +84,7 @@
 ## JSON, javascript and related
 
  - [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/index.html)
- - [Chai Assertion Library](http://www.chaijs.com/)
+ - [Chai Assertion Library](https://www.chaijs.com/)
  - [Selenium WebDriverJs guide](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs)
  - [Selenium WebDriver JavaScript test with Mocha and NodeJS](https://gist.github.com/patoi/5330701)
  - [Moment.js](https://momentjs.com) - Parse, validate, manipulate, and display dates and times in JavaScript
