@@ -30,7 +30,7 @@
  - [nerdcommenter](https://github.com/scrooloose/nerdcommenter)
  - [committia](https://github.com/rhysd/committia.vim)
  - [python-mode](https://github.com/python-mode/python-mode)
- - [jshint2.vim](https://github.com/Shutnik/jshint2.vim)
+ - [jshint2.vim](https://github.com/NikolayFrantsev/jshint2.vim)
  - [vim-stay](https://github.com/zhimsel/vim-stay)
  - [vim-togglenumber](https://github.com/tkhoa2711/vim-togglenumber)
  - [vim-go](https://github.com/fatih/vim-go)
