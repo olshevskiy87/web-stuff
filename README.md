@@ -67,6 +67,7 @@
  - [ipython](https://ipython.org) - A command shell for interactive computing
  - [ptpython](https://github.com/jonathanslenders/ptpython) - A better Python REPL
  - [wsstat](https://github.com/Fitblip/wsstat) - Websocket stress testing made beautiful
+ - [yolk](https://github.com/myint/yolk) - Command-line tool for querying PyPI and Python packages installed on your system (yolk3k)
 
 ## Go
 
