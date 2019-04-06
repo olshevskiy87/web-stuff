@@ -53,6 +53,10 @@
   - [pgAdmin](https://www.pgadmin.org)
   - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 
+## PHP
+
+ - [PsySH](https://psysh.org) - A runtime developer console, interactive debugger and REPL for PHP
+
 ## Python
 
  - [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
