@@ -59,7 +59,7 @@
 
 ## Python
 
- - [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
+ - [Requests: HTTP for Humans](https://2.python-requests.org//en/master/)
  - [Telegram Bot wrapper](https://github.com/python-telegram-bot/python-telegram-bot)
  - [httpie](https://github.com/jakubroztocil/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI
  - [authomatic](https://github.com/authomatic/authomatic) - Simple yet powerful authorization / authentication client library for Python web applications
@@ -110,7 +110,7 @@
  - [Michael Paquier's blog](https://paquier.xyz/)
  - [Magnus Hagander's blog](https://blog.hagander.net/tags/postgresql/)
  - [Tomas Vondra's blog](http://blog.pgaddict.com)
- - [2ndQuadrant's blog](https://blog.2ndquadrant.com)
+ - [2ndQuadrant's blog](https://www.2ndQuadrant.com/en/blog/)
  - [Pavel Stehule's blog](http://okbob.blogspot.com)
  - [Database Soup](http://www.databasesoup.com/search/label/postgresql) - Josh Berkus' blog
  - [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.com/search/label/PostgreSQL)
