@@ -8,6 +8,7 @@
  - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
  - [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust
  - [ripgrep](https://github.com/BurntSushi/ripgrep) - a search tool that recursively searches your current directory for a regex pattern while respecting your gitignore rules
+ - [SDKMAN!](https://sdkman.io/) - a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems
 
 ## Vim / Neovim
 
