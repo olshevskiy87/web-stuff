@@ -39,7 +39,7 @@
 ## Git
 
  - [git-extras](https://github.com/tj/git-extras)
- - [Git tutorials from Atlassian](https://ru.atlassian.com/git/tutorials)
+ - [Git tutorials from Atlassian](https://www.atlassian.com/ru/git/tutorials)
  - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
 ## DBMS
@@ -99,7 +99,7 @@
 
 ## queueing systems
 
- - [ZeroMQ](http://zeromq.org) (0MQ, ZMQ) - a high-performance asynchronous messaging library
+ - [ZeroMQ](https://zeromq.org/) (0MQ, ZMQ) - a high-performance asynchronous messaging library
  - [RabbitMQ](https://www.rabbitmq.com) - message broker software that implements the [AMQP](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 
 ## blogs
