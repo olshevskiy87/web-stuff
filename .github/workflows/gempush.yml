@@ -2,7 +2,7 @@ name: Ruby Gem
 
 on:
   shedule:
-  - cron: */20 * * * *
+  - cron: "*/20 * * * *"
 
 jobs:
   build:
