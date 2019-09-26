@@ -60,7 +60,7 @@
 
 ## Python
 
- - [Requests: HTTP for Humans](https://2.python-requests.org//en/master/)
+ - [Requests: HTTP for Humans](https://requests.kennethreitz.org/en/master/)
  - [Telegram Bot wrapper](https://github.com/python-telegram-bot/python-telegram-bot)
  - [httpie](https://github.com/jakubroztocil/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI
  - [authomatic](https://github.com/authomatic/authomatic) - Simple yet powerful authorization / authentication client library for Python web applications
