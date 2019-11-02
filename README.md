@@ -106,7 +106,6 @@
 
  - [select * from depesz;](https://www.depesz.com)
  - [Pat Shaughnessy's blog](http://patshaughnessy.net)
- - [Bruce Momjian's Postgres blog](http://momjian.us/main/blogs/pgblog.html)
  - [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql)
  - [Michael Paquier's blog](https://paquier.xyz/)
  - [Magnus Hagander's blog](https://blog.hagander.net/tags/postgresql/)
