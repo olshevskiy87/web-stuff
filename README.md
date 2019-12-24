@@ -13,7 +13,7 @@
 ## Vim / Neovim
 
  - [Vim Casts with Drew Neil](http://vimcasts.org/episodes/)
- - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
+ - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
  - [The great cheatsheet for Vimscript](https://devhints.io/vimscript)
  - [Neovim](https://github.com/neovim/neovim)
  - [VimGolf](http://www.vimgolf.com)
