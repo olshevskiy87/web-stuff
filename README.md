@@ -28,7 +28,7 @@
  - [seoul256.vim](https://github.com/junegunn/seoul256.vim)
  - [vim-easy-align](https://github.com/junegunn/vim-easy-align)
  - [gv.vim](https://github.com/junegunn/gv.vim)
- - [nerdcommenter](https://github.com/scrooloose/nerdcommenter)
+ - [nerdcommenter](https://github.com/preservim/nerdcommenter)
  - [committia](https://github.com/rhysd/committia.vim)
  - [python-mode](https://github.com/python-mode/python-mode)
  - [jshint2.vim](https://github.com/NikolayFrantsev/jshint2.vim)
