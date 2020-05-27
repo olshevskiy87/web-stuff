@@ -1,4 +1,4 @@
-# web stuff [![Build status][travis_badge]](https://travis-ci.org/olshevskiy87/web-stuff)
+# web stuff ![awesome bot](https://github.com/olshevskiy87/web-stuff/workflows/Ruby%20Gem/badge.svg)
 
 ## \*nix
 
@@ -125,5 +125,3 @@
  - [Rico Sta. Cruz's cheatsheets collection](https://devhints.io)
  - [Mozilla Development Network](https://developer.mozilla.org/en-US/)
  - [ansifilter](https://gitlab.com/saalen/ansifilter) - ANSI sequence filter
-
-[travis_badge]: https://api.travis-ci.org/olshevskiy87/web-stuff.svg?branch=master
