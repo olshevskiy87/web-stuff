@@ -18,7 +18,7 @@ jobs:
     - name: set up Ruby
       uses: actions/setup-ruby@v1
       with:
-        version: 2.6.x
+        ruby-version: 2.6
 
     - name: set up awesome_bot
       run: |
@@ -26,4 +26,4 @@ jobs:
 
     - name: script
       run: |
-        awesome_bot README.md --white-list travis-ci,vimgolf.com
+        awesome_bot README.md
