@@ -9,6 +9,7 @@
  - [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust
  - [ripgrep](https://github.com/BurntSushi/ripgrep) - a search tool that recursively searches your current directory for a regex pattern while respecting your gitignore rules
  - [SDKMAN!](https://sdkman.io/) - a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems
+ - [xidlehook](https://github.com/jD91mZM2/xidlehook) - executes a command when the computer has been idle for a specified amount of time
 
 ## Vim / Neovim
 
