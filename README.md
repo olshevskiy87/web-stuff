@@ -109,7 +109,6 @@
  - [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql)
  - [Michael Paquier's blog](https://paquier.xyz/)
  - [Magnus Hagander's blog](https://blog.hagander.net/tags/postgresql/)
- - [Tomas Vondra's blog](http://blog.pgaddict.com)
  - [2ndQuadrant's blog](https://www.2ndQuadrant.com/en/blog/)
  - [Pavel Stehule's blog](http://okbob.blogspot.com)
  - [Database Soup](http://www.databasesoup.com/search/label/postgresql) - Josh Berkus' blog
