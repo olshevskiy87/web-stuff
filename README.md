@@ -114,7 +114,7 @@
  - [Database Soup](http://www.databasesoup.com/search/label/postgresql) - Josh Berkus' blog
  - [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.com/search/label/PostgreSQL)
  - [Записки программиста](https://eax.me)
- - [Arabesque](https://sanctum.geek.nz/arabesque/) - Tom Ryder's blog
+ - [Arabesque](https://blog.sanctum.geek.nz/) - Tom Ryder's blog
  - [Ruslan Spivak's blog](https://ruslanspivak.com)
  - [Peter Eisentraut's blog](http://peter.eisentraut.org/)
 
