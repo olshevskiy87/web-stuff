@@ -2,7 +2,6 @@
 
 ## \*nix
 
- - [A collection of Unix/Linux/BSD commands and tasks](http://cb.vu/unixtoolbox.xhtml)
  - [Погружаемся в Docker: Dockerfile и коммуникация между контейнерами](https://habr.com/ru/company/infobox/blog/240623/)
  - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
  - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -61,7 +60,7 @@
 
 ## Python
 
- - [Requests: HTTP for Humans](https://docs.python-requests.org/en/master/)
+ - [Requests: HTTP for Humans](https://pypi.org/project/requests/)
  - [Telegram Bot wrapper](https://github.com/python-telegram-bot/python-telegram-bot)
  - [httpie](https://github.com/httpie/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI
  - [authomatic](https://github.com/authomatic/authomatic) - Simple yet powerful authorization / authentication client library for Python web applications
@@ -72,12 +71,12 @@
 
 ## Go
 
- - [play golang](https://play.golang.org)
+ - [The Go Playground](https://go.dev/play/)
  - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
  - [gogs (Go Git Service)](https://github.com/gogs/gogs)
  - [awesome-go](https://github.com/avelino/awesome-go)
  - [slit](https://github.com/tigrawap/slit) - a modern $PAGER for noisy logs
- - [justforfunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) - programming in Go and having fun with it ([Francesc Campoy](https://twitter.com/francesc))
+ - [justforfunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) - programming in Go and having fun with it ([Francesc Campoy](https://www.campoy.cat/))
  - [Go 101](https://go101.org/article/101.html) - a book focusing on Go syntax and semantics
  - [A curated selection of blog posts on Go](https://github.com/enocom/gopher-reading-list)
  - [revive](https://github.com/mgechev/revive) - Fast, extensible, configurable, and beautiful linter for Go
@@ -105,7 +104,7 @@
 ## blogs
 
  - [select * from depesz;](https://www.depesz.com)
- - [Pat Shaughnessy's blog](http://patshaughnessy.net)
+ - [Pat Shaughnessy's blog](https://patshaughnessy.net)
  - [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql)
  - [Michael Paquier's blog](https://paquier.xyz/)
  - [Magnus Hagander's blog](https://blog.hagander.net/tags/postgresql/)
