@@ -114,7 +114,7 @@
  - [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.com/search/label/PostgreSQL)
  - [Записки программиста](https://eax.me)
  - [Arabesque](https://blog.sanctum.geek.nz/) - Tom Ryder's blog
- - [Ruslan Spivak's blog](http://ruslanspivak.com)
+ - [Ruslan Spivak's blog](https://ruslanspivak.com)
  - [Peter Eisentraut's blog](http://peter.eisentraut.org/)
 
 ## miscellaneous
